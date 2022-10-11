@@ -3,7 +3,6 @@ class Node:
     self.data = data
     self.next = None
     #self.top=None
-
 class Stack:
   def __init__(self):
     self.top = None
